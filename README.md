@@ -1,27 +1,18 @@
 ## ⚡ 简介
 
-React admin， 基于 `React18`,`TypeScript`,`vite4`,`antd4.x`等相关主流技术开发，一个免费开源的中后台管理系统开箱即用的前端解决方案，也可适用于学习`React`时进行参考或练手的项目。
+React admin
 
 ## 🌈 特性
 
--   **主题切换**：普通、暗黑主题模式
 -   **Mock 数据**： 内置 Mock 数据方案
 -   **用户管理**：登录、登出演示、账号管理
--   **权限管理**：路由权限（动态路由）、组件权限（按钮）
--   **组件**： 二次封装常用组件（空状态、表格、表单、弹窗、上传文件、水印）等
--   **错误页面**: 403、404 页面
--   **多代理配置**：开发环境（development）配置多个本地代理
--   **其他内置功能**：伸缩侧边栏、面包屑、全屏等
 
 ## 📚 预览
 
--   [react-admin](http://mu.haojiey.cn/) - 预览站点
+-   预览站点
 
 <p align="center">
-    <img alt="Admin Logo" width="100%" src="./src/assets/preview/preview1.png">
-    <img alt="Admin Logo" width="100%" src="./src/assets/preview/preview2.png">
-    <img alt="Admin Logo" width="100%" src="./src/assets/preview/preview3.png">
-    <img alt="Admin Logo" width="100%" src="./src/assets/preview/preview4.png">
+    <!-- <img alt="Admin Logo" width="100%" src=""> -->
 </p>
 
 ## ⭐ 仓库地址
@@ -60,12 +51,6 @@ npm run build
 pnpm build
 ```
 
-## 🌈 线上接口
-
-本地采用 Mock 数据，线上采用 EasyMock：
-
--   EasyMock：https://mock.mengxuegu.com/
-
 ## 🔨 Git 提交规范
 
 -   `feat` 增加新的功能
@@ -81,9 +66,3 @@ pnpm build
 -   `ci` 持续集成
 -   `types` 类型定义文件更改
 -   `wip` 开发中
-
-## 📑 浏览器支持
-
-| ![Edge](https://i.imgtg.com/2023/04/11/8zr3p.png) | ![Firefox](https://i.imgtg.com/2023/04/11/8zKiU.png) | ![Chrome](https://i.imgtg.com/2023/04/11/8zNrx.png) | ![Safari](https://i.imgtg.com/2023/04/11/8zeGj.png) |
-| :-: | :-: | :-: | :-: |
-| last 2 versions | last 2 versions | last 2 versions | last 2 versions |
